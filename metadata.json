@@ -1,4 +1,7 @@
 {
   "name": "DADA",
   "symbol": "DA",
+  "uri": "https://soundar6385.github.io/IPFS/metadata.json",
+  "seller_fee_basis_points": 500,
+  "creators": null
 }
